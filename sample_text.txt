@@ -1,1 +1,1 @@
-sadeq is good and bad and bad
+This unit introduces students to the methods and processes involved in creating 3D elements, objects and spaces using a computer software. The key areas of modelling, lighting and rendering will be examined, and various modes of output demonstrated. Different applications of CGI (computer generated imagery), such as motion graphics, character animation and virtual environments are discussed. 3D models will be used to generate simple animation.
